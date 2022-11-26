@@ -1,0 +1,3 @@
+[submodule "open62541-ffi"]
+	path = open62541-ffi
+	url = https://github.com/jh-isw/open62541-ffi
